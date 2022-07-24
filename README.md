@@ -1,0 +1,1 @@
+# hiperskill-static-code-analyzer
